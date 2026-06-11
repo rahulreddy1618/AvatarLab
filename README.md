@@ -162,3 +162,5 @@ Here’s what’s next for Avatar Lab:
 
 -**We also tried to run both the models on the same port( currently the tts api is  running on port 8000 and The latentsync api is running on 6900) but we failed to do so because of conflicting model dependencies.**
 
+We’re building something exciting—and you can be part of it.
+For contributions, feedback, or collaboration, feel free to open issues or pull requests.
